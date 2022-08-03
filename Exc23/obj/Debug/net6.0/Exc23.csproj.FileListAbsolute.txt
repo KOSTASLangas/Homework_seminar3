@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\bin\Debug\net6.0\Exc23.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\bin\Debug\net6.0\Exc23.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\bin\Debug\net6.0\Exc23.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\bin\Debug\net6.0\Exc23.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\bin\Debug\net6.0\Exc23.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\refint\Exc23.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\Exc23.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Homework\Exc23\obj\Debug\net6.0\ref\Exc23.dll
